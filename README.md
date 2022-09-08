@@ -19,6 +19,6 @@ _____
 
 ______
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravevy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ravevy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravevy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ravevy" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravevy&show_icons=true&theme=tokyonight&locale=en" alt="ravevy" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravevy&show_icons=true&theme=tokyonight&locale=en" alt="ravevy" /></p>
