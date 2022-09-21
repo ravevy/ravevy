@@ -9,7 +9,7 @@ _____
 
 
 
-- 🌱 I’m currently learning **React.js and Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/fbeyzab/), [Email](mailto:beyzbaser@gmail.com)
 
