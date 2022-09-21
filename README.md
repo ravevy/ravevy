@@ -11,7 +11,7 @@ _____
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/fbeyzab/), [Email](mailto:beyzbaser@gmail.com)
+- 📫 How to reach me [Email](mailto:beyzbaser@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
