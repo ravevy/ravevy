@@ -9,7 +9,7 @@ _____
 
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js & TypeScript** 
 
 - 📫 How to reach me [Email](mailto:beyzbaser@gmail.com)
 
